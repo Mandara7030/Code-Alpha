@@ -5,13 +5,14 @@ body{
 }
 .header{
     display: flex;
-    gap: 40px;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    gap: 30px;
+    font-family: 'Courier New', Courier, monospace;
     align-items: center;
     align-content: center;
     color: blueviolet;
     margin: 30px;
     padding: 10px;
+    font-size: 30px;
 }
 
 img{
@@ -29,6 +30,7 @@ img{
     color: #a007a0;
     margin:20px;
     padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
 }
 label{
     font-family: 'Courier New', Courier, monospace;
